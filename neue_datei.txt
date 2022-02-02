@@ -4,3 +4,4 @@ branch erstellen und ändern
 add new feature
 test_branch_merge
 new_branch_1
+add 2. feature
